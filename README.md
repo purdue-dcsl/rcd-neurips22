@@ -1,5 +1,7 @@
 ## Introduction
-Source code for [Root Cause Analysis of Failures in Microservices through Causal Discovery](https://proceedings.neurips.cc/paper_files/paper/2022/file/c9fcd02e6445c7dfbad6986abee53d0d-Paper-Conference.pdf).
+Source code for [Root Cause Analysis of Failures in Microservices through Causal Discovery](https://proceedings.neurips.cc/paper_files/paper/2022/file/c9fcd02e6445c7dfbad6986abee53d0d-Paper-Conference.pdf). Paper appeared in NeurIPS 2022.
+
+Azam Ikram; Sarthak Chakraborty, Subrata Mitra, Shiv Saini (Adobe Research); Saurabh Bagchi, and Murat Kocaoglu, “Root Cause Analysis of Failures in Microservices through Causal Discovery,” At the Advances in Neural Information Processing Systems (NeurIPS), 35, pp.31158-31170, November-December 2022. (Acceptance rate: 2,665/10,411 = 25.6%)
 
 ## Setup
 The following insutrctions assume that you are running Ubuntu-20.04.
